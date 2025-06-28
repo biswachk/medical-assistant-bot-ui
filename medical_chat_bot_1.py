@@ -90,7 +90,7 @@ def call_gemini_api(messages_history):
 # --- Streamlit UI ---
 
 st.set_page_config(page_title="Medical Assistant Bot", page_icon="~~~~")
-st.title(" Medical Assistant Bot-From Siliguri")
+st.title(" Medical Assistant Bot-From Biswadeep Chakraborty, Siliguri")
 st.write("Hello! I'm your Medical Assistant Bot. I can provide general health information and specialized advice.")
 st.warning("**Disclaimer:** I am an AI and cannot provide medical diagnoses, prescriptions, or professional medical advice. Always consult a qualified healthcare professional for any medical concerns.")
 
